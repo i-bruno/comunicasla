@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+.banner{
+    width: 1200px;
+    height: 60px;
+    background-color: #263d54;
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+    color: bisque;
+}
+
+.pie {
+    width: 1200px;
+    height: 60px;
+    background-color: #bf1b27;
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+    color: bisque;
+}
+
+.escudo{
+    height: 100%;
+}
+#secbusc{
+    width: 50%;
+    margin: 0 0 0 300px;
+    text-align: center;
+}
+
+#buscador {
+display: block;
+box-sizing: border-box;
+float: left;
+line-height: 20px;
+position: relative;
+padding: 6px 12px 6px 12px;
+}
+
+#submit {
+box-sizing: border-box;
+display: inline-block;
+float: none;
+line-height: 20px;
+position: relative;
+}
+
+#secBoletin{
+    width: 800px;
+    height: 1500px;
+}
