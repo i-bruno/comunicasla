@@ -1,6 +1,9 @@
+/*Elementos*/
 body {
     background-color: rgb(204, 204, 204);
 }
+
+/*Clases*/
 .banner{
     width: 1200px;
     height: 60px;
@@ -24,6 +27,9 @@ body {
 .escudo{
     height: 100%;
 }
+
+/*Identificadores*/
+
 #secbusc{
     width: 50%;
     margin: 0 0 0 300px;
