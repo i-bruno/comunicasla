@@ -3,6 +3,9 @@ body {
     background-color: rgb(204, 204, 204);
 }
 
+footer{
+    display: flex;
+}
 /*Clases*/
 .banner{
     width: auto;
