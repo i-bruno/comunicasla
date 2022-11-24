@@ -29,7 +29,8 @@ body {
 }
 
 
-.container {  display: grid;
+.container {  
+    display: grid;
     grid-template-columns: 1fr 1.7fr 0.5fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 0px 0px;
@@ -44,16 +45,22 @@ body {
         "filtros boletin linksinteres";
     }
 
-    .buscador { grid-area: buscador; 
+    .buscador { 
+        grid-area: buscador; 
     }
 
-    .filtros { grid-area: filtros; 
+    .filtros { 
+        grid-area: filtros;
+        padding: 0 0 0 20px; 
     }
 
-    .boletin { grid-area: boletin; 
+    .boletin { 
+        grid-area: boletin; 
     }
 
-    .linksinteres { grid-area: linksinteres; 
+    .linksinteres { 
+        grid-area: linksinteres;
+        padding: 0 0 0 20px; 
     }
 
 
