@@ -5,6 +5,12 @@ body {
 
 footer{
     display: flex;
+    height: 100%;
+    background-color: #bf1b27;
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+    color: bisque;
 }
 /*Clases*/
 .banner{
@@ -17,14 +23,7 @@ footer{
     color: bisque;
 }
 
-.pie {
-    height: 100%;
-    background-color: #bf1b27;
-    width: 100%;
-    padding: 3px;
-    text-align: center;
-    color: bisque;
-}
+
 
 .escudo{
     height: 75PX;
