@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 embed{
-    height: 100%;
+    height: 96%;
 }
 
 /*Clases*/
@@ -99,7 +99,7 @@ embed{
 
     .boletin { 
         grid-area: boletin;
-        height: 95%;
+        height: 100%;
         padding: 0 5px 0 5px; 
         margin: 0 5px 0 5px;
         background-color:  rgb(190, 190, 190);
