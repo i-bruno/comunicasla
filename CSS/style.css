@@ -4,13 +4,14 @@ body {
 }
 
 footer{
-    display:inline-block;
+    display:inline-flex;
     height: 100%;
     background-color: #bf1b27;
     width: 100%;
     padding: 3px;
     text-align: center;
     color: bisque;
+    justify-content: space-evenly;
 }
 /*Clases*/
 .banner{
