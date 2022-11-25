@@ -47,8 +47,11 @@ embed{
 
 .nav-item:hover{
     background-color: #bf1b27;
-    color:white;
     border-radius: 5px;
+}
+
+.nav-item a:hover{
+    color: white;
 }
 
 .menuSide li a {
