@@ -82,17 +82,20 @@ h1, h2, h3, h4, h5, h6 {
     .filtros { 
         grid-area: filtros;
         padding: 0 0 0 20px;
-        background-color:  rgb(160, 160, 160); 
+        background-color:  rgb(170, 170, 170);
+        border-radius: 5px; 
     }
 
     .boletin { 
-        grid-area: boletin; 
+        grid-area: boletin;
+        height: 100%; 
     }
 
     .linksinteres { 
         grid-area: linksinteres;
         padding: 0 0 0 0px;
-        background-color:  rgb(160, 160, 160); 
+        background-color:  rgb(170, 170, 170);
+        border-radius: 5px; 
     }
 
 
