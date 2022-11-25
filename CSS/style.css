@@ -90,7 +90,7 @@ embed{
 .container {  
     display: grid;
     grid-template-columns: 1fr 1.7fr 0.5fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.7fr 1fr 1fr 1fr 1fr 1fr 1fr;
     width: 100%;
     gap: 0px 0px;
     grid-auto-flow: row;
