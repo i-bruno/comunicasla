@@ -25,6 +25,13 @@ h1, h2, h3, h4, h5, h6 {
 .menuSide li {
     background-color: #bf1b27;
     color:white;
+    border-radius: 5px;
+    margin: 1px;
+}
+
+.menuSide li a {
+    text-decoration: none;
+    color: white;
 }
 
 .banner{
