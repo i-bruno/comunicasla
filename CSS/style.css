@@ -24,7 +24,10 @@ footer{
     color: bisque;
 }
 
-
+.textoPie {
+    width: 80%;
+    height: auto;
+}
 
 .escudo{
     height: 75PX;
