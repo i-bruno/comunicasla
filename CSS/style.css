@@ -22,6 +22,9 @@ embed{
 
 header{
     border-top: #bf1b27;
+    border-left: #263d54;
+    border-right: #263d54;
+    border-bottom: #263d54;
     border-style: solid;
     border-width: 5px;
 }
