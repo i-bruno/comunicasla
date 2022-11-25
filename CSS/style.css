@@ -45,6 +45,10 @@ embed{
     background-color: #263d54;
 }
 
+.nav-item:hover{
+    background-color: #bf1b27;
+}
+
 .menuSide li a {
     text-decoration: none;
     color: white;
