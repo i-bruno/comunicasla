@@ -22,6 +22,11 @@ embed{
 
 /*Clases*/
 
+.colorBorde {
+    background-color: #bf1b27;
+}
+
+
 .flexNav {
     display:inline-flex;
     justify-content: space-evenly;
