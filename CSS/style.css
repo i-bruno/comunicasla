@@ -20,17 +20,11 @@ embed{
     height: 96%;
 }
 
-/*Clases*/
-
-.colorBorde {
+header{
     border-color: #bf1b27;
 }
 
-
-.flexNav {
-    display:inline-flex;
-    justify-content: space-evenly;
-}
+/*Clases*/
 
 .menuSide {
     list-style-type:none;
@@ -48,15 +42,6 @@ embed{
 
 .menuSide li:hover{
     background-color: #263d54;
-}
-
-.nav-item:hover{
-    background-color: #bf1b27;
-    border-radius: 5px;
-}
-
-.nav-item a:hover{
-    color: white;
 }
 
 .menuSide li a {
