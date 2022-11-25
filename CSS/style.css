@@ -15,6 +15,11 @@ footer{
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
+
+embed{
+    height: 100%;
+}
+
 /*Clases*/
 
 .menuSide {
@@ -29,6 +34,10 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 5px;
     margin: 1px;
     text-align: center;
+}
+
+.menuSide li:hover{
+    background-color: #263d54;
 }
 
 .menuSide li a {
