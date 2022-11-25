@@ -16,6 +16,17 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 /*Clases*/
+
+.menuSide {
+    list-style-type:none;
+    background-color:  rgb(160, 160, 160);
+}
+
+.menuSide li {
+    background-color: #bf1b27;
+    color:white;
+}
+
 .banner{
     width: auto;
     height: auto;
