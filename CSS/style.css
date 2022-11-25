@@ -23,6 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .menuSide {
     list-style-type:none;
+    padding: 2px;
+    border-radius: 5px;
 }
 
 .menuSide li {
