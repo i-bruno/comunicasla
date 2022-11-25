@@ -22,6 +22,11 @@ embed{
 
 /*Clases*/
 
+.flexNav {
+    display:inline-flex;
+    justify-content: space-evenly;
+}
+
 .menuSide {
     list-style-type:none;
     padding: 2px;
