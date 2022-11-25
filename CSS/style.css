@@ -17,9 +17,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 /*Clases*/
 
+.linksinteres {
+    background-color:  rgb(160, 160, 160);
+}
+
 .menuSide {
     list-style-type:none;
-    background-color:  rgb(160, 160, 160);
 }
 
 .menuSide li {
@@ -27,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
     color:white;
     border-radius: 5px;
     margin: 1px;
+    text-align: center;
 }
 
 .menuSide li a {
