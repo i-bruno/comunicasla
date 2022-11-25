@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6 {
     display: grid;
     grid-template-columns: 1fr 1.7fr 0.5fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 100%;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -81,8 +82,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .filtros { 
         grid-area: filtros;
-        padding: 0 1px 0 1px;
-        margin: 0 1px 0 1px;
+        padding: 0 5px 0 5px;
+        margin: 0 5px 0 5px;
         background-color:  rgb(180, 180, 180);
         border-radius: 5px; 
     }
@@ -90,14 +91,14 @@ h1, h2, h3, h4, h5, h6 {
     .boletin { 
         grid-area: boletin;
         height: 95%;
-        padding: 0 1px 0 1px; 
-        margin: 0 1px 0 1px;
+        padding: 0 5px 0 5px; 
+        margin: 0 5px 0 5px;
     }
 
     .linksinteres { 
         grid-area: linksinteres;
-        padding: 0 1px 0 1px;
-        margin: 0 1px 0 1px;
+        padding: 0 5px 0 5px;
+        margin: 0 5px 0 5px;
         background-color:  rgb(180, 180, 180);
         border-radius: 5px; 
     }
