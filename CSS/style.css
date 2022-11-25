@@ -100,8 +100,8 @@ header{
 
     .filtros { 
         grid-area: filtros;
-        padding: 0 5px 0 5px;
-        margin: 0 5px 0 5px;
+        padding: 0 5px 5px 5px;
+        margin: 0 5px 5px 5px;
         background-color:  rgb(190, 190, 190);
         border-radius: 5px; 
     }
@@ -109,16 +109,16 @@ header{
     .boletin { 
         grid-area: boletin;
         height: 100%;
-        padding: 0 5px 0 5px; 
-        margin: 0 5px 0 5px;
+        padding: 0 5px 5px 5px; 
+        margin: 0 5px 5px 5px;
         background-color:  rgb(190, 190, 190);
         border-radius: 5px;
     }
 
     .linksinteres { 
         grid-area: linksinteres;
-        padding: 0 5px 0 5px;
-        margin: 0 5px 0 5px;
+        padding: 0 5px 5px 5px;
+        margin: 0 5px 5px 5px;
         background-color:  rgb(190, 190, 190);
         border-radius: 5px; 
     }
