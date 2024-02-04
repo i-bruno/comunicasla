@@ -1,0 +1,15 @@
+{
+  "name": "comunicasla",
+  "version": "1.0.0",
+  "description": "aplicación web comunicaciones oficiales casla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfjs-dist": "^4.0.379"
+  }
+}
